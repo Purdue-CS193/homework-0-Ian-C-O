@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Ian's First CS193 Homework
+
+- Big fan of the funny unfunny funny jokes.
+- This class will hopefully help me pass 180.
+- Pls help.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
